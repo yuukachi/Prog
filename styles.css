@@ -167,12 +167,16 @@ footer {
     font-size:
 }
 
-@media (max-width: 500px) {
+@media (max-width: 670px) {
     .top-logo.right {
         width: 50%;
     }
 
     .top-logo.left {
-        width: 100%;
+        width: 125%;
     }    
+
+    .text {
+        display: none;
+    }
 }
