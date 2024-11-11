@@ -15,13 +15,12 @@ body {
 
 header {
     text-align: center;
-    padding: 40px 30px;
+    padding: 10px 10px;
     background-color: #00796b;
     color: #fff;
     width: 100%;
     position: relative;
     animation: fadeIn 1s ease-in-out;
-    margin-bottom: 0;
 }
 
 header h1 {
